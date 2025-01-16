@@ -15,7 +15,7 @@ Welcome to my **Personal Portfolio** repository! This project is a showcase of m
 
 ## 🎥 Live Preview
 
-Experience the portfolio in action: [🔗 Live Demo](#) *(Add your live portfolio link)*
+Experience the portfolio in action: [🔗 Live Demo](https://riteshsinghcs.github.io/My-Personal-Portfolio/) 
 
 ![🌟 Portfolio Preview](#) *(Include a visually appealing screenshot or GIF here)*
 
