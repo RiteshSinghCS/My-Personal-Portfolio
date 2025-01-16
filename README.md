@@ -17,7 +17,7 @@ Welcome to my **Personal Portfolio** repository! This project is a showcase of m
 
 Experience the portfolio in action: [🔗 Live Demo](https://riteshsinghcs.github.io/My-Personal-Portfolio/) 
 
-[🌟 Portfolio Preview](https://i.postimg.cc/PfVvZyzS/Screenshot-2025-01-17-005154.png) 
+![🌟 Portfolio Preview](https://i.postimg.cc/PfVvZyzS/Screenshot-2025-01-17-005154.png) 
 
 ---
 
