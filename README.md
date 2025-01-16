@@ -98,17 +98,6 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 ## ✨ About Me
 
 - **Ritesh Kumar Singh**
-- 🌐 LinkedIn: [Connect with me](#)
+- 🌐 LinkedIn: [Connect with me](https://www.linkedin.com/in/riteshkumarsinghcs/)
 - 🌟 Portfolio: [Visit Here](#)
-
----
-
-## 💬 Acknowledgments
-
-- A big thank you to the open-source community for resources and inspiration.
-- Special mentions to tutorials and frameworks that made this project possible.
-
----
-
-Ready to explore? Dive into the code and experience the magic of web development!
 
